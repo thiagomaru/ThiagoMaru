@@ -23,7 +23,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagomaruyama/)](https://www.linkedin.com/in/thiagomaruyama/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomaru&show_icons=true&theme=aura)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomaru&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomaru&layout=compact&theme=aura)
 
 <code><img height="30" src="https://miro.medium.com/v2/resize:fit:1200/1*ycIMlwgwicqlO6PcFRA-Iw.png"></code>
 <code><img height="30" src="https://www.dbacorp.com.br/wp-content/uploads/2017/07/microsoft-sql-server-logo.png"></code>
