@@ -24,9 +24,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomaru&show_icons=true&theme=aura)
 
-<code><img height="30" src="https://www.ciat.edu/wp-content/uploads/2022/09/python-logo-1.png"></code>
+<code><img height="30" src="https://miro.medium.com/v2/resize:fit:1200/1*ycIMlwgwicqlO6PcFRA-Iw.png"></code>
 <code><img height="30" src="https://www.dbacorp.com.br/wp-content/uploads/2017/07/microsoft-sql-server-logo.png"></code>
-<code><img height="30" src="https://images.viblo.asia/566f87af-2553-42b4-be61-f769444b8dc7.png"></code>
+<code><img height="30" src="https://www.ambientelivre.com.br/media/k2/items/cache/e9432fccf28a953514f077b86e5e657a_M.jpg"></code>
 
 - Thanks for visiting.
 
