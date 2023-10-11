@@ -24,6 +24,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomaru&show_icons=true&theme=aura)
 
+<img align="right" width="400" height="400" src="https://www.ciat.edu/wp-content/uploads/2022/09/python-logo-1.png">
+
 - Thanks for visiting.
 
 - Enjoy it!! o/
